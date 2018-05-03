@@ -1,0 +1,2 @@
+Goal: 0 Reached in: 0
+Number of obstacles hit on the way: 1
